@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* login画面おのAtlasロゴ */
+img.Atlas-Logo {
+    display: flex;
+    position: absolute;
+    top: -10%;
+}
